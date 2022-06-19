@@ -1,0 +1,14 @@
+.login {
+    padding: 2.5rem 0;
+    text-align: -moz-center;
+}
+
+.login__formulario {
+    max-width: 412px;
+}
+
+.button-entrar {
+    display: block;
+    margin-top: 1rem;
+    padding: 1rem 1rem;
+}
